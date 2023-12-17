@@ -23,7 +23,6 @@
 <h2>Installation</h2>
 <p>Clone the repository:</p>
 <pre><code>git clone https://github.com/YasiruDEX/RenderGen_V1.git</code></pre>
-<p>Follow the detailed installation instructions in the <code>INSTALL.md</code> file.</p>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you want to contribute to RenderGen, please follow the guidelines in the <code>CONTRIBUTING.md</code> file.</p>
